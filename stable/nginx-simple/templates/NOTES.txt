@@ -1,0 +1,4 @@
+1. Get the application URL by running these commands:
+you can by the nodeport or ingress use the application
+2. Test the application run just file
+curl the clusterip:port
