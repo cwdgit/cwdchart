@@ -1,0 +1,15 @@
+apiVersion: v1
+appVersion: "2.0"
+description: A Helm single mysql chart for Kubernetes,add the storage,use the default sc
+name: mysql-single-sc
+version: 0.1.0
+home: http://www.mysql.com/
+icon: https://www.mysql.com/common/logos/logo-mysql-170x115.png
+keywords:
+- mysql
+- database
+- sql
+- storageclass
+maintainers:
+- email: wdcao@alauda.io
+  name: wdcao
